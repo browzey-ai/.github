@@ -1,4 +1,4 @@
-#  Browzey.ai
+# Browzey.ai
 
 **Automate any web task with natural language — no code required.**
 
@@ -26,6 +26,7 @@ Our core product. Tell the AI what you want to automate — it builds and runs t
 Every tool works instantly in your browser — no account needed.
 
 ### Data Extraction
+
 - [Extract Emails from Webpage](https://browzey.ai/tools/extract-emails-from-webpage)
 - [Extract Emails from Text](https://browzey.ai/tools/extract-emails-from-text)
 - [Extract Phone Numbers from Text](https://browzey.ai/tools/extract-phone-numbers-from-text)
@@ -34,12 +35,14 @@ Every tool works instantly in your browser — no account needed.
 - [Extract Sitemap URLs](https://browzey.ai/tools/sitemap-extractor)
 
 ### Format Converters
+
 - [Webpage to Markdown](https://browzey.ai/tools/webpage-to-markdown) · [Webpage to CSV](https://browzey.ai/tools/webpage-to-csv) · [Webpage to JSON](https://browzey.ai/tools/webpage-to-json)
 - [PDF to Markdown](https://browzey.ai/tools/pdf-to-markdown) · [DOCX to Markdown](https://browzey.ai/tools/docx-to-markdown) · [HTML to Markdown](https://browzey.ai/tools/html-to-markdown)
 - [CSV to JSON](https://browzey.ai/tools/csv-to-json) · [JSON to CSV](https://browzey.ai/tools/json-to-csv)
 - [Base64 Encode](https://browzey.ai/tools/base64-encode) · [Base64 Decode](https://browzey.ai/tools/base64-decode)
 
 ### SEO Tools
+
 - [Canonical Tag Checker](https://browzey.ai/tools/canonical-checker)
 - [Meta Tag Analyzer](https://browzey.ai/tools/meta-tag-analyzer)
 - [Open Graph Preview](https://browzey.ai/tools/open-graph-preview)
@@ -53,12 +56,12 @@ Every tool works instantly in your browser — no account needed.
 
 Pre-built automations you can run immediately.
 
-| Category | Templates |
-|----------|-----------|
-| **LinkedIn** | Profile Extractor · Company Extractor · Posts Extractor |
-| **Jobs** | Indeed Jobs Scraper |
-| **Social Media** | YouTube Video Scraper · Instagram Profile Scraper · TikTok Profile Scraper |
-| **Websites** | Website Contact Scraper |
+| Category         | Templates                                                                                                                    |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **LinkedIn**     | Profile Extractor · Company Extractor · Posts Extractor                                                                      |
+| **Jobs**         | Indeed Jobs Scraper                                                                                                          |
+| **Social Media** | YouTube Video Scraper · Instagram Profile Scraper · TikTok Profile Scraper                                                   |
+| **Websites**     | Website Contact Scraper                                                                                                      |
 | **Integrations** | LinkedIn → Notion · Jobs → Notion · YouTube → Notion · LinkedIn Alerts → Slack · Job Alerts → Slack · YouTube Alerts → Slack |
 
 👉 [Browse all templates](https://browzey.ai/templates)
@@ -71,7 +74,7 @@ Pre-built automations you can run immediately.
 2. Try any of the [26 free tools](https://browzey.ai/tools) — no signup needed
 3. Or describe a task to the [Browser Agent](https://browzey.ai/browser-agent) and watch it build your automation
 
-Free tier available. 14-day trial on all paid plans. See [pricing](https://browzey.ai/pricing).
+Free tier available. See [pricing](https://browzey.ai/pricing).
 
 ---
 
